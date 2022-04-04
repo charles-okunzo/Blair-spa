@@ -2,13 +2,23 @@
     margin: 0;
     padding: o;
     font-family: 'Poppins', sans-serif;
-    background-image: url("");
+    
 }
-nav .logo a{
+body{
+    background-position: center;
+    background-size: cover;
+}
+/* #navbarText bttn{
+    color: #FA00FF;
+} */
+/* nav .logo a{
     color: white !important;
     font-family: 'Recursive', sans-serif;
     font-style: 800;
     font-size: 2rem;
+} */
+/* button.navbar-toggler{
+    background-color: #ffffff;
 }
 nav .logo a span{
     color: #FA00FF;
@@ -25,25 +35,25 @@ nav .logo a span{
 }
 .btn-outline-success:hover{
     background-color: rgba(250, 0, 255, 0.5);
-}
+} */
 
 #all{
     
-    background-color: #FECAFF;
+    background:#FECAFF;
     width: 60%;
     height: auto;
     margin: auto;
     text-align: center;
+    
+    
 }
 .register{
     margin-top: 3%;
     padding: 20px;
+
 }
-.last {
-    margin: 30px;
-}
-.no{
-    margin: 30px;
+label{
+    margin-left: -30%;
 }
 .terms{
     margin: 30px;
@@ -58,11 +68,23 @@ nav .logo a span{
 
 }
 .whole input{
+    width: auto;
 display: block;
 margin: 20px;
-margin-left: 30%;
+margin-left: 28%;
+padding: 5px 10px;
+border-radius: 5px;
+
 }
 .drop{
     width: 300px;
     height: 30px;
+}
+.d-flex{
+    flex-direction: column;
+}
+@media screen and (max-width:768px){
+    #all {
+        width: 85%;
+    }
 }

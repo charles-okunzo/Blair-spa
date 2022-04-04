@@ -6,7 +6,7 @@
     list-style: none;
 } 
 
-nav .logo a{
+/* nav .logo a{
     color: white !important;
     font-family: 'Recursive', sans-serif;
     font-style: 800;
@@ -28,7 +28,7 @@ span{
 #navbarText button:hover{
     color:#261818 !important;
     background-color: #FA00FF;
-}
+} */
 
 .container-fluid py-4 contactInfo{
     padding: 10px;
@@ -87,7 +87,7 @@ span{
 }
 
 
-footer, footer a{
+/* footer, footer a{
     font-size: 0.8em;
     text-decoration: none;
     color: black;
@@ -148,8 +148,8 @@ footer, footer a{
 }
 .socials a:hover{
     color: #FA00FF;
-    font-size: 1.2em;
-}
+    font-size: 1.2em; */
+/* } */
 @media screen and (max-width:768px) {
     .contactInfo div{
         text-align: center;

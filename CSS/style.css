@@ -7,8 +7,8 @@
 nav .logo a{
     color: white !important;
     font-family: 'Recursive', sans-serif;
-    font-style: 800;
-    font-size: 2rem;
+    /* font-style: 800;
+    font-size: 2rem; */
 }
 
 span{
@@ -20,21 +20,21 @@ span{
     font-family: 'Poppins', sans-serif;
     font-size: 1.05rem;
 }
-.butn{
+/* .butn{
     color:#fa00ff;
     border: 1px solid #fa00ff;
     width:7rem;
-}
+} */
     
 .butn a{
     text-decoration:none;
     }
 
-#navbarText form button{
+#navbarText form .bttn{
     color: #fa00ff !important;
     border: 1px solid #fa00ff;
-    width: 7rem;
-    font-weight: 500;
+    /* width: 7rem;
+    font-weight: 500; */
 }
 
 #navbarText button:hover{
@@ -80,9 +80,9 @@ img.img-fluid{
     width: auto;
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
     
-}
+} */
 
 .two {
     background-color: #261818;

@@ -6,7 +6,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
-/*Navbar*/
+/* Navbar
 nav .logo a{
     color: white !important;
     font-family: 'Recursive', sans-serif;
@@ -38,7 +38,7 @@ nav .logo a span{
 
 button.navbar-toggler{
     background-color: #ffffff;
-}
+} */
 /*End Navbar*/
 
 .page-wrapper{

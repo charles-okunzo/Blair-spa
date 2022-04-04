@@ -11,8 +11,8 @@ body{
 nav .logo a{
     color: white !important;
     font-family: 'Recursive', sans-serif;
-    font-style: 800;
-    font-size: 1.5rem;
+    /* font-style: 800;
+    font-size: 1.5rem; */
 }
 button.navbar-toggler{
     background-color: #ffffff !important;
@@ -30,7 +30,7 @@ span{
     font-family: 'Poppins', sans-serif;
     font-size: 1.05rem;
 }
-#navbarText button{
+#navbarText form .bttn{
     color: #FA00FF !important;
     border: 1px solid #FA00FF;
     width: 8rem;
